@@ -1,108 +1,139 @@
-<!-- Replace every YOUR_... placeholder before publishing -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        ABDALLA MOHAMED — README                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Abdalla+Mohamed;Freelance+Data+Analysis+Engineer;Excel+%7C+Python+%7C+Power+BI+%7C+SQL;Turning+Raw+Data+Into+Insights" alt="Typing SVG" />
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%2C%20I'm%20YOUR_NAME&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20%26%20Computer%20Science%20Student&descAlignY=60&descSize=18" alt="header" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+insights+%F0%9F%93%8A;Student+at+Capital+University+%F0%9F%8E%93;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00c6ff&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=2c5364)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdalla820&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-- 🎓 Student at the **Faculty of Computers and Artificial Intelligence**, **Capital University**
-- 📊 Aspiring **Data Analyst** who loves cleaning, exploring, and visualizing data
-- 🔭 Currently working on: **YOUR_CURRENT_PROJECT**
-- 🌱 Currently learning: **Advanced SQL, Machine Learning, Data Storytelling**
-- 🗄️ Studying databases in depth: indexing, B-Trees, transactions, and query optimization
-- 💬 Ask me about: **Data analysis, SQL, dashboards**
-- ⚡ Fun fact: **YOUR_FUN_FACT**
+I'm **Abdalla Mohamed Farouk Ibrahim**, a **Freelance Data Analysis Engineer** based in **Cairo, Egypt** 🇪🇬.
+
+Currently a **3rd-year student** at **Helwan University**, and soon entering the **Faculty of Computers and Artificial Intelligence at Capital University**. I combine a strong passion for data analysis with a solid programming foundation — making me a Data Analyst skilled in **Excel, Python, Power BI & SQL**, with a deep understanding of **Object-Oriented Programming (Java)** and **Data Structures (C++)**.
+
+- 🔭 Currently working on **end-to-end data analytics projects**
+- 🌱 Currently studying **Computer Science & Artificial Intelligence**
+- 💡 Motto: **"Discipline == Success"**
+- 📫 Reach me at: **abdallamohamed8354@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
-</div>
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdalla820&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla820&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="42%" />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak stats" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 📊 [**Sales Dashboard**](https://github.com/YOUR_USERNAME/sales-dashboard) | Interactive dashboard analyzing sales trends and KPIs | `Power BI` `SQL` |
-| 🧹 [**Data Cleaning Toolkit**](https://github.com/YOUR_USERNAME/data-cleaning) | Reusable scripts to clean and prepare messy datasets | `Python` `Pandas` |
-| 🔍 [**EDA Project**](https://github.com/YOUR_USERNAME/eda-project) | Exploratory analysis with insights and visualizations | `Python` `Matplotlib` `Seaborn` |
-| 🗄️ [**Database Design**](https://github.com/YOUR_USERNAME/database-project) | Relational database design with ERD, normalization, and SQL queries | `SQL` `ERD` |
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalla820&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdalla820&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
 
 ---
 
-## 🎯 Goals for 2026
+## 🚀 Featured Projects
 
-- [ ] Build a strong foundation in SQL and Python
-- [ ] Complete 3 end-to-end data analysis projects
-- [ ] Land a data analyst internship
+### 🌍 [Global Inflation Dynamics (2000–2025)](https://github.com/Abdalla820/Global-Inflation)
+> A **Data Analysis project** that explores global inflation trends across countries over a 25-year period — uncovering patterns, correlations, and economic insights through interactive visualizations.
+
+**Tech:** `Python` · `Pandas` · `NumPy` · `Power BI` · `Excel`
 
 ---
 
-## 🤝 Let's Connect
+### 🛒 [Online Retail — Customer Analytics](https://github.com/Abdalla820/Online_Retail)
+> An **end-to-end customer analytics project** built on the **Online Retail II dataset**. A reproducible Python pipeline handles data cleaning, **RFM segmentation**, and **cohort analysis**. A **Power BI dashboard** delivers interactive insights across four analytical views.
 
-<div align="center">
+**Tech:** `Python` · `Pandas` · `RFM Analysis` · `Cohort Analysis` · `Power BI`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/abdalla-mohamed-farouk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallamohamed8354@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://YOUR_PORTFOLIO.com](https://abdalla-portfolio-pi.vercel.app/))
+---
 
-<br/>
+## 💼 Experience
 
-*"Without data, you're just another person with an opinion."* – W. Edwards Deming
+**🏦 Internship — National Bank of Egypt (NBE)**
+- Department: **Planet Press Sector**
+- Period: **July 2026**
+- Focus: Banking operations, data handling, and business processes.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=120&section=footer" alt="footer" />
+**📡 Internship — National Telecommunication Institute (NTI)**
+- Role: **Data Analyst Intern**
+- Duration: **1 Month — August 2026**
+- Focus: Applied data analysis workflows, reporting, and dashboarding.
 
-</div>
+---
+
+## 📚 Education
+
+🎓 **Helwan University** — *Computer Science Student (3rd Year)*  
+🎓 **Capital University** — *Faculty of Computers and Artificial Intelligence* (upcoming)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Abdalla820" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abdalla-mohamed-farouk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://abdalla-portfolio-pi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:abdallamohamed8354@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>✨ "Discipline == Success" ✨</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=120&section=footer" />
+</p>
