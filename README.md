@@ -1,30 +1,111 @@
-<h1 align="center">Hi 👋, I'm Abdalla Mohamed</h1>
-<h3 align="center">A passionate data analyst engineer from egypt</h3>
+<!-- Replace every YOUR_... placeholder before publishing -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalla820&label=Profile%20views&color=0e75b6&style=flat" alt="abdalla820" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdalla820" alt="abdalla820" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%2C%20I'm%20YOUR_NAME&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20%26%20Computer%20Science%20Student&descAlignY=60&descSize=18" alt="header" />
 
-- 🌱 I’m currently learning **data modeling , python in deeply**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+insights+%F0%9F%93%8A;Student+at+Capital+University+%F0%9F%8E%93;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-- 👨‍💻 All of my projects are available at [https://abdalla-portfolio-pi.vercel.app/](https://abdalla-portfolio-pi.vercel.app/)
+<br/>
 
-- 💬 Ask me about **python , power bi , sql , excel , java**
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00c6ff&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=2c5364)
 
-- 📫 How to reach me **abdallamohamed8354@gmail.com / linkedin.com/in/abdalla-mohamed-farouk**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdalla mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdalla mohamed" height="30" width="40" /></a>
-<a href="https://fb.com/abdalla mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdalla mohamed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdallamohamed10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdallamohamed10" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 👋 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalla820&show_icons=true&locale=en&layout=compact" alt="abdalla820" /></p>
+- 🎓 Student at the **Faculty of Computers and Artificial Intelligence**, **Capital University**
+- 📊 Aspiring **Data Analyst** who loves cleaning, exploring, and visualizing data
+- 🔭 Currently working on: **YOUR_CURRENT_PROJECT**
+- 🌱 Currently learning: **Advanced SQL, Machine Learning, Data Storytelling**
+- 🗄️ Studying databases in depth: indexing, B-Trees, transactions, and query optimization
+- 💬 Ask me about: **Data analysis, SQL, dashboards**
+- ⚡ Fun fact: **YOUR_FUN_FACT**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdalla820&show_icons=true&locale=en" alt="abdalla820" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalla820&" alt="abdalla820" /></p>
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak stats" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 📊 [**Sales Dashboard**](https://github.com/YOUR_USERNAME/sales-dashboard) | Interactive dashboard analyzing sales trends and KPIs | `Power BI` `SQL` |
+| 🧹 [**Data Cleaning Toolkit**](https://github.com/YOUR_USERNAME/data-cleaning) | Reusable scripts to clean and prepare messy datasets | `Python` `Pandas` |
+| 🔍 [**EDA Project**](https://github.com/YOUR_USERNAME/eda-project) | Exploratory analysis with insights and visualizations | `Python` `Matplotlib` `Seaborn` |
+| 🗄️ [**Database Design**](https://github.com/YOUR_USERNAME/database-project) | Relational database design with ERD, normalization, and SQL queries | `SQL` `ERD` |
+
+> 💡 Replace these with your real projects and links.
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 Goals for 2026
+
+- [x] Build a strong foundation in SQL and Python
+- [ ] Complete 3 end-to-end data analysis projects
+- [ ] Earn a data analytics certification
+- [ ] Land a data analyst internship
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.com)
+
+<br/>
+
+*"Without data, you're just another person with an opinion."* – W. Edwards Deming
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=120&section=footer" alt="footer" />
+
+</div>
