@@ -106,8 +106,7 @@ Currently a **3rd-year student** at **Helwan University**, and soon entering the
 
 ## 📚 Education
 
-🎓 **Helwan University** — *Computer Science Student (3rd Year)*  
-🎓 **Capital University** — *Faculty of Computers and Artificial Intelligence* (upcoming)
+🎓 **Capital University** — *Computer Science Student (3rd Year)*  
 
 ---
 
